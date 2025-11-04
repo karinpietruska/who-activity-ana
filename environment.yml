@@ -1,0 +1,15 @@
+name: visual-who-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - pandas[version='>=2.2']
+  - numpy
+  - matplotlib[version='>=3.8']
+  - seaborn[version='>=0.13']
+  - requests
+  - ca-certificates
+  - openssl
+prefix: /opt/homebrew/Caskroom/mambaforge/base/envs/visual-who-env

@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+*.conda
+*.lock
+*.yaml~
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.zip
+*.json
