@@ -34,6 +34,9 @@ htmlcov/
 # Cursor / local AI tooling
 .cursor/
 
+# Website-only figure exports (not part of the repository)
+figures_website/
+
 # Local secrets (none present now; keep the rule)
 .env
 .env.*
