@@ -1,28 +1,39 @@
-# Byte-compiled / cache files
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
 *.py[cod]
+*$py.class
 *.so
+.Python
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Environments
+# Virtual environments
 .env/
 .venv/
 env/
 venv/
 *.conda
-*.lock
-*.yaml~
 
-# IDE / OS
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors
 .vscode/
 .idea/
-.DS_Store
+*.swp
 
-# Data files
-data/
-*.csv
-*.xlsx
-*.zip
-*.json
+# Cursor / local AI tooling
+.cursor/
+
+# Local secrets (none present now; keep the rule)
+.env
+.env.*
