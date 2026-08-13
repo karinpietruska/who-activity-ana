@@ -29,15 +29,13 @@ It is a descriptive analysis of published GHO estimates, not a full epidemiologi
 
 ## Key findings
 
-All country-level summaries below are **unweighted** (each country counts equally). They are not equivalent to the WHO global estimate, which is a separately modeled population-level series.
+**Country-level averages give each country equal weight, regardless of population size.** Each of the 195 countries contributes one national estimate, so a small country and a very populous country count once each. These averages describe how estimates vary across countries; they are not estimates of prevalence in the world’s total population. For the global trend, the analysis therefore uses the WHO’s separately modeled global estimates.
 
-- In 2022, the unweighted mean age-standardized prevalence across 195 countries (both sexes) was about **27.3%**.
-- Female country-level estimates averaged about **31.0%**; male estimates averaged about **23.6%**.
-- Unweighted regional means were highest in the **Eastern Mediterranean** and the **Americas**, and lowest in **Africa**.
-- The WHO global modeled estimate increased from about **23.4% in 2000** to **31.3% in 2022**.
-- The female–male difference (`Female − Male`, in percentage points) varies widely across countries. Female estimates were higher in **169 of 195** countries; male estimates were higher in **26**. These gaps are descriptive differences, not statistical significance tests.
-
-Notebook 02 contains the full tables, maps, and join audit.
+- Across the **195 countries** in the dataset, the average age-standardized prevalence estimate in 2022 was about **27.3%**.
+- Country estimates averaged about **31.0% for females** and **23.6% for males**.
+- Average country estimates were highest in the **Eastern Mediterranean** and the **Americas**, and lowest in **Africa**.
+- The WHO’s global modeled estimate increased from about **23.4% in 2000** to **31.3% in 2022**.
+- Female estimates were higher than male estimates in **169 of 195 countries**; the reverse was observed in **26 countries**. These are descriptive differences and are not statistical significance tests.
 
 ## Visual highlights
 
